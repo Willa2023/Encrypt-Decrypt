@@ -3,7 +3,7 @@ This is an application that provides encryption and decryption services, includi
 #
 The app lets users register and log in, with passwords hashed in the database. After logging in, users can encrypt text using three methods. Encrypted text and message IDs are stored in the database, with encryption keys in local files. To decrypt, users log in, enter the message ID, and the app retrieves encrypted text and keys automatically. Clicking decrypt completes the process.
 
-### Homepage
+### Main Page
 
 ![homepage](https://github.com/Willa2023/Encrypt-Decrypt/blob/61e540a5eb891d207be3f9a0fab5ef67b577047e/img/MainPage.png)
 
